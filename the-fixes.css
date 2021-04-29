@@ -1,0 +1,280 @@
+/* The following CSS was made in part by Leozard, LeafyLuigi, KitKat, Scars and Cruxie */
+
+/* Server dropdown menu server boost */
+.theme-dark .perksModal-fSYqOq, .theme-dark .tierMarkerBackground-3q29am {background-color: transparent;}
+.theme-dark .ctaBar-2UsjF2, .theme-dark .perk-2WeBWW, .theme-dark .tierBody-16Chc9, .theme-dark .tierHeaderLocked-1s2JJz, .theme-dark .barBackground-2EEiLw {background-color: var(--backdrop-overlay);}
+.tierMarker-5HkGJ_[style*="linear-gradient(to right, rgb(32, 34, 37), rgb(32, 34, 37));"] {background: var(--backdrop-overlay) !important;}
+.theme-dark .barForeground-3KglC8 {background-color: rgba(244,127,255,0.9);}
+
+/* Region Selector button */
+.lookGhost-2Fn_0-.colorGrey-2DXtkV {color: white; background-color: var(--main-color);}
+.lookGhost-2Fn_0-.colorBrand-3pXr91 {color: white; background-color: var(--hover-color);}
+
+/* Invite Modal */
+.inviteRow-2L02ae:hover {background-color: rgba(255,255,255,0.4);}
+
+/* Invite from web browser modal */
+.theme-dark .contentWrapper-3WC1ID {background: var(--background-overlay)}
+.pill-1dHPfk {background-color: transparent;}
+.lookLink-9FtZy-.colorBrand-3pXr91{color: var(--main-color);}
+.lookLink-9FtZy-.colorBrand-3pXr91:hover .contents-18-Yxp {background-image: linear-gradient(0deg,transparent,transparent 1px,var(--main-color) 0,var(--main-color) 2px,transparent 0);}
+
+/* Dropdown voice call region changer */
+.theme-dark .quickSelectPopout-X1hvgV {background: var(--backdrop-overlay);}
+
+/* Stream Ended background */
+.theme-dark .container-2oTpPc, .root-25RxKh {background: transparent;}
+
+/* Invalid Gift | ref: https://discord.gift/1 */
+.theme-dark .tile-2OwFgW {background-color: var(--background-overlay);}
+.theme-dark .tile-2OwFgW:hover {background-color: var(--backdrop-overlay);}
+
+/* Server unavailable screen. Slight easter egg. */
+.content-MLh4nU, .category-2haXBH, .channelIcon-1TvDoP, .channelName-2wrHHc {background-color: var(--background-overlay);}
+
+/* Games tab */
+.scroller-1IIF0A, .scroller-2XE8rp, .header-39GIC8 {background-color: transparent;}
+
+/* Volume slider */
+.theme-dark .bubble-3we2di {background-color: var(--main-color);}
+.theme-dark .bubble-3we2di:before {border-top-color: var(--main-color);}
+
+/*
+  ==/ NEW FRIENDS LIST because discord keeps changing shit /==
+*/
+/* No friends playing games */
+.theme-dark .wrapper-3UweLa,
+/* No friends playing games? Not sure. */
+.emptyCard-1RJw8n {background-color: var(--background-overlay);}
+
+/* BD sliders were forgotten about in CV, apparently. */
+#bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch.checked {background-color: var(--main-color);}
+#bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch {background-color: rgba(255,255,255,0.3);}
+
+/* Emoji Picker Nitro Ending Soon Notification - Cruxie */
+.premiumRetentionNotice-1MsjHe {background-color: var(--background-overlay);}
+
+/* default text */
+.defaultValue-3gC7yw .markValue-2DwdXI {color: var(--success-color);}
+
+/* Search dropdown */
+.theme-dark .container-3ayLPN {background-color: rgba(0,0,0,0.8);}
+
+/* mentions */
+.messageContainer-gbhlwo {background-color: var(--background-overlay);}
+.guildIcon-3Co6k- {background-color: transparent;}
+
+
+/* Calls apparently broke */
+.container-2x5lvQ {background: transparent;}
+.noiseCancellationPopout-iRK2A0 {background-color: var(--backdrop-overlay);}
+
+.streamPreview-3YL8OQ {background-color: var(--background-color);}
+.imageSelected-4Kl81J {border-color: var(--main-color);}
+
+/* Server Discovery Language Drop down + Search bar */
+.css-1wqqa50-container, .css-1rckt42-menu,  .appMount-3lHmkl .searchBox-3Y2Vi7 {background-color: var(--background-overlay);}
+.css-12o7ek3-option, .css-1gnr91b-option:hover {background-color: var(--background-modifier-hover);}
+
+/* Ha fcking no nitro nerds */
+.premiumSubscriptionAccountCredit-25i0tQ{background-color: var(--background-overlay);}
+
+/* status color */
+.mask-1l8v16>rect[fill='#43b581'] {fill: var(--online-color) !important;}
+.mask-1l8v16>rect[fill='#faa61a'] {fill: var(--idle-color) !important;}
+.mask-1l8v16>rect[fill='#f04747'] {fill: var(--dnd-color) !important;}
+.mask-1l8v16>rect[fill='#593695'] {fill: var(--streaming-color) !important;}
+.mask-1l8v16>rect[fill='#747f8d'] {fill: var(--offline-color) !important;}
+
+/* Discover/Explore Public Servers */
+    /* search bars + icons */
+.searchPage-3GKAdT .search-1iTphC .searchBox-2_mAlO {background-color: var(--background-overlay);}
+.search-1iTphC .searchBox-2_mAlO .searchBoxInput-K6mkng {color: var(--text-normal) !important;}
+.search-1iTphC .searchBox-2_mAlO .closeIcon-2WLZc1, .search-1iTphC .searchBox-2_mAlO .searchIcon-6ljH-4, .searchPage-3GKAdT .search-1iTphC .searchBox-2_mAlO .closeIcon-2WLZc1 {color: var(--main-color);}
+.search-1iTphC .searchBox-2_mAlO .closeIcon-2WLZc1:hover, .search-1iTphC .searchBox-2_mAlO .searchIcon-6ljH-4:hover, .searchPage-3GKAdT .search-1iTphC .searchBox-2_mAlO .closeIcon-2WLZc1:hover {color: var(--hover-color);}
+    /* server cards */
+.theme-dark .card-3DjzTQ, .theme-dark .iconMask-3b8GzQ, .theme-dark .card-3DjzTQ:hover, .theme-dark .card-3DjzTQ:hover .iconMask-3b8GzQ, .loading-17PYl_ {background-color: var(--background-overlay);}
+    /* lang selector */
+.languageSelector-LEtpHP>div>div {background-color: var(--background-overlay);}
+    /* spinner */
+.spinner-3lb-NU {background-color: var(--backdrop-overlay);}
+    /* selected tab + category when searching */
+.categoryPill-34fszg.selected-1dONk0, .categoryItem-3zFJns.selectedCategoryItem-3X8ujp .itemInner-3gVXMG {background-color: var(--main-color);}
+    /* emote bar */
+.emojiContainer-1u-_sQ {background-color: var(--backdrop-overlay);}
+    /* statuses */
+.dotOnline-8Ag7EB {background-color: var(--online-color);}
+.dotOffline-3DXoDy {background-color: var(--offline-color);}
+  /* no search results */
+ .emptyContainer-1_gwCl {background-color: var(--background-overlay);}
+/*server Discover searchbar focus colour*/
+.searchPage-3GKAdT .search-1iTphC .searchBox-2_mAlO:focus, .searchPage-3GKAdT .search-1iTphC .searchBox-2_mAlO:focus-within {border-color: var(--main-color);}
+
+/* Channel Follow */
+.theme-dark .header-1pGpFt {background-image: none; background-color: var(--backdrop-overlay);}
+.channelContainer-1x3D6I .channel-2PJTLY {background-color: var(--background-overlay);}
+.channelContainer-1x3D6I {background-color: transparent;}
+
+/* Spotify Popup */
+.attachPopout-36hjtN {background-color: var(--backdrop-overlay);}
+
+/* Cv spin All Langs - ONLY HITS USER SETTINGS */
+/* Danish */
+.container-3baos1 .button-14-BFJ[aria-label="Brugerindstillinger"]:hover  > .contents-18-Yxp > svg {animation: cv-spin 2.5s linear infinite;}
+/* Deutsch */
+.container-3baos1 .button-14-BFJ[aria-label="Benutzereinstellungen"]:hover  > .contents-18-Yxp > svg {animation: cv-spin 2.5s linear infinite;}
+/* English */
+.container-3baos1 .button-14-BFJ[aria-label="User Settings"]:hover  > .contents-18-Yxp > svg {animation: cv-spin 2.5s linear infinite;}
+/* Spanish */
+.container-3baos1 .button-14-BFJ[aria-label="Ajustes de usuario"]:hover  > .contents-18-Yxp > svg {animation: cv-spin 2.5s linear infinite;}
+/* French */
+.container-3baos1 .button-14-BFJ[aria-label="Paramètres utilisateur"]:hover  > .contents-18-Yxp > svg {animation: cv-spin 2.5s linear infinite;}
+/* Croatian */
+.container-3baos1 .button-14-BFJ[aria-label="Korisničke postavke"]:hover  > .contents-18-Yxp > svg {animation: cv-spin 2.5s linear infinite;}
+/* Italian */
+.container-3baos1 .button-14-BFJ[aria-label="Impostazioni utente"]:hover  > .contents-18-Yxp > svg {animation: cv-spin 2.5s linear infinite;}
+/* Lithuanian */
+.container-3baos1 .button-14-BFJ[aria-label="Naudotojo Nustatymai"]:hover  > .contents-18-Yxp > svg {animation: cv-spin 2.5s linear infinite;}
+/* Hungarian */
+.container-3baos1 .button-14-BFJ[aria-label="Felhasználói beállítások"]:hover  > .contents-18-Yxp > svg {animation: cv-spin 2.5s linear infinite;}
+/* Dutch */
+.container-3baos1 .button-14-BFJ[aria-label="Gebruikersinstellingen"]:hover  > .contents-18-Yxp > svg {animation: cv-spin 2.5s linear infinite;}
+/* Norwegian */
+.container-3baos1 .button-14-BFJ[aria-label="Brukerinnstillinger"]:hover  > .contents-18-Yxp > svg {animation: cv-spin 2.5s linear infinite;}
+/* Polish */
+.container-3baos1 .button-14-BFJ[aria-label="Ustawienia użytkownika"]:hover  > .contents-18-Yxp > svg {animation: cv-spin 2.5s linear infinite;}
+/* Portuguese, Brazilian */
+.container-3baos1 .button-14-BFJ[aria-label="Configurações de Usuário"]:hover  > .contents-18-Yxp > svg {animation: cv-spin 2.5s linear infinite;}
+/* Romanian */
+.container-3baos1 .button-14-BFJ[aria-label="Setări utilizator"]:hover  > .contents-18-Yxp > svg {animation: cv-spin 2.5s linear infinite;}
+/* Finnisch */
+.container-3baos1 .button-14-BFJ[aria-label="Käyttäjäasetukset"]:hover  > .contents-18-Yxp > svg {animation: cv-spin 2.5s linear infinite;}
+/* Swedish */
+.container-3baos1 .button-14-BFJ[aria-label="Användarinställningar"]:hover  > .contents-18-Yxp > svg {animation: cv-spin 2.5s linear infinite;}
+/* Vietnamese */
+.container-3baos1 .button-14-BFJ[aria-label="Cài đặt người dùng"]:hover  > .contents-18-Yxp > svg {animation: cv-spin 2.5s linear infinite;}
+/* Turkish */
+.container-3baos1 .button-14-BFJ[aria-label="Kullanıcı Ayarları"]:hover  > .contents-18-Yxp > svg {animation: cv-spin 2.5s linear infinite;}
+/* Czech */
+.container-3baos1 .button-14-BFJ[aria-label="Uživatelská nastavení"]:hover  > .contents-18-Yxp > svg {animation: cv-spin 2.5s linear infinite;}
+/* Greek */
+.container-3baos1 .button-14-BFJ[aria-label="Ρυθμίσεις χρήστη"]:hover  > .contents-18-Yxp > svg {animation: cv-spin 2.5s linear infinite;}
+/* Bulgarian */
+.container-3baos1 .button-14-BFJ[aria-label="Потребителски настройки"]:hover  > .contents-18-Yxp > svg {animation: cv-spin 2.5s linear infinite;}
+/* Russian */
+.container-3baos1 .button-14-BFJ[aria-label="Настройки пользователя"]:hover  > .contents-18-Yxp > svg {animation: cv-spin 2.5s linear infinite;}
+/* Ukrainian */
+.container-3baos1 .button-14-BFJ[aria-label="Користувацькі налаштування"]:hover  > .contents-18-Yxp > svg {animation: cv-spin 2.5s linear infinite;}
+/* Thai */
+.container-3baos1 .button-14-BFJ[aria-label="ตั้งค่าผู้ใช้"]:hover  > .contents-18-Yxp > svg {animation: cv-spin 2.5s linear infinite;}
+/* Chinese - China */
+.container-3baos1 .button-14-BFJ[aria-label="用户设置"]:hover  > .contents-18-Yxp > svg {animation: cv-spin 2.5s linear infinite;}
+/* Japanese */
+.container-3baos1 .button-14-BFJ[aria-label="ユーザー設定"]:hover  > .contents-18-Yxp > svg {animation: cv-spin 2.5s linear infinite;}
+/* Chinese Taiwan */
+.container-3baos1 .button-14-BFJ[aria-label="使用者設定"]:hover  > .contents-18-Yxp > svg {animation: cv-spin 2.5s linear infinite;}
+/* Korean */
+.container-3baos1 .button-14-BFJ[aria-label="사용자 설정"]:hover  > .contents-18-Yxp > svg {animation: cv-spin 2.5s linear infinite;}
+
+/* quick reactions */
+.button-F9qN4n.focused-3ZzkKr {box-shadow: 0 0 2px 2px var(--hover-color);}
+.button-F9qN4n, .button-F9qN4n.focused-3ZzkKr, .button-F9qN4n:hover {background-color: var(--backdrop-overlay);}
+
+/*Border hover and select on search options*/
+.tab-EiCZG6.selected-3gXBLQ, .tab-EiCZG6:hover {border-bottom: 2px solid var(--main-color) !important;}
+
+/* birthday confirmation modal */
+.theme-dark .footer-3rDWdC {background-color: var(--backdrop-overlay); box-shadow: none;}
+.required-7sPBq3 {color: var(--danger-color);}
+
+/*Invite your friends*/
+.card-1yV8cG {background-color: rgba(0,0,0,0.4);}
+
+/* Unread Popout p.s. hecc u discord */
+.tutorial-3w5I9h, .container-enaOkj, .messages-3G3erD {background-color: var(--background-overlay);}
+.messages-3G3erD, .channelHeader-3Gd2xq{padding-right: 10px;padding-left: 20px;}
+.collapseButton-2ZsEjz{padding-left: 10px;}
+.messageContainer-1ei2zM:hover .jumpButton-3vBz5U{background-color: transparent;}
+.tutorialIcon-3f1miQ {background-color: var(--main-color); color: #fff;}
+
+/*inbox badge*/
+.badge-2qGa_k:after{background-color: var(--main-color);}
+/* inbox Jump to button */
+.messageContainer-gbhlwo:hover .jumpButton-2F6EMx {background-color: var(--backdrop-overlay);}
+
+/* You're all caught up*/
+.icon-1Itzco{background-color: var(--background-overlay); color: #fff;}
+
+/* Announcement settings */
+.theme-dark .row-_dKwg4:nth-child(odd) {background-color: var(--background-overlay);}
+
+/* Welcome Screen - Server settings */
+.enableContainer-1ZFFhM, .previewContainer-1OoJ8M, .welcomeChannel-1wxdCJ, .descriptionInput-1C1q6Z{background-color: var(--background-overlay);}
+
+/* Boost level unlock loading */
+.theme-dark .tierHeaderUnlocked-2RhWqn {background-color: var(--background-overlay);}
+
+/* Search results */
+.channelName-1JRO3C {background: transparent;}
+.searchResult-9tQ1uo:after {background-image:none;}
+.searchResult-9tQ1uo:before {background-image:none;}
+.searchResultMessage-1fxgXh.hit-1fVM9e {background-color: transparent; border: none; box-shadow: none;}
+.searchResult-9tQ1uo.expanded-w_LCGl  {background-color: var(--background-overlay); border:none;}
+.searchResult-9tQ1uo .hit-1fVM9e .messageGroupCozy-2-Q370 {background-color: var(--background-overlay);}
+.searchResult-9tQ1uo:focus-within .jumpButton-JkYoYK, .searchResult-9tQ1uo:hover .jumpButton-JkYoYK {background-color: var(--backdrop-overlay);}
+.expanded-w_LCGl .searchResultMessage-1fxgXh.hit-1fVM9e{background-color: transparent;}
+
+
+/* Home -> Nitro (Under Library) */
+.scroller-9moviB {background: transparent}
+
+/* Server boost bar */
+.barSecondary-3B1aP2 {background-color: var(--main-color);}
+
+/* Discord Store transparency */
+.scroller-1JpcIc {background-color:transparent;}
+
+/* Enable community words, e.g. learn latin, python */
+.guildDetails-2p1NmK {background-color: transparent;}
+
+/* Fixed menu selection color when dragging server drop-down */
+.colorDefault-2K3EoJ:active:not(.hideInteraction-1iHO1O) {background-color: var(--hover-color);}
+
+/* Not enough server members warning */
+.notEnoughMembersError-1KwJkE {background-color: var(--background-help-warning);}
+
+/* Community overview->settings box */
+.upsellContent-1JlpHe, .upsellFooter-ZYsio_, .upsellContainer-L9xv7w {background-color: transparent;}
+
+/* Enable Discovery icons and cards */
+.theme-dark .card-3_CqkU, .theme-dark .iconMask-30Tvqs, .perkArt-1SGWbA {background-color: var(--background-overlay);}
+
+/* Webhooks, channels followed icons */
+.iconWrapper-lS1uig {background-color: var(--background-overlay);}
+
+/* New channel "edit channel link" */
+.button-2OOM0p {color: var(--url-color);}
+
+/* Fixes Add another channel button drag color */
+.theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6:active, .theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6:hover {background-color: var(--hover-color);}
+
+/* New feature badge */
+.badge-_BgAUQ {background-color: var(--main-color);}
+
+
+.lookOutlined-3sRXeN.colorBrand-3pXr91 {
+    color: var(--main-color);
+    border-color: var(--main-color);} 
+	
+.lookOutlined-3sRXeN.colorBrand-3pXr91:hover{
+ color: var(--hover-color);
+ border-color: var(--hover-color);}
+
+/* Server is going to lose a level popout */
+.message-39hdqk {width: 110%;}
+.close-jnIfru:hover {color:var(--danger-color);}
+
+.channelHeader-3Gd2xq {background-color: var(--backdrop-overlay);} /*message popout stuff */
+/* a few dropdowns somewhere idk */
+.css-n57xjs-menu {background-color: var(--backdrop-overlay);}
+.css-3vaxre-menu {background-color: var(--backdrop-overlay);}
